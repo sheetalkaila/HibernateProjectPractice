@@ -15,5 +15,9 @@ add a repository,choose working path(where git folder is present from step 2) th
  
 step-4 commit
 change the file,staged the file then commit with message.
+
+step-5 make repository on github so that we can push this changes to internet.
+.gitignore file ignore the files that it has. ignore the files means those files can not track.
  
+step-6 connect local repository with github repository by adding remote
 
