@@ -1,0 +1,19 @@
+Hibernate Project
+
+git version controlling
+github version controlling server 
+
+step-1 create project folder in pc eg.HibernateProjectPractice(C:\Users\sheet\OneDrive\Desktop\SEM-3 Fall 2024\ISAM_5638_Java\Project)
+
+step-2 initialse git tracking inside HibernateProjectPractice
+C:\Users\sheet\OneDrive\Desktop\SEM-3 Fall 2024\ISAM_5638_Java\Project\HibernateProjectPractice>git init 
+Initialized empty Git repository in C:/Users/sheet/OneDrive/Desktop/SEM-3 Fall 2024/ISAM_5638_Java/Project/HibernateProjectPractice/.git/
+//this is local repository in pc
+
+step-3 open this local repository in sourcetree
+add a repository,choose working path(where git folder is present from step 2) then click on add 
+ 
+step-4 commit
+change the file,staged the file then commit with message.
+ 
+
